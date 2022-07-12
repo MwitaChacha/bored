@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.welcome {
+  background-image: linear-gradient(#b958a5, #ff5677);
+  color: white;
+}
+
+.btn {
+  background-image: linear-gradient(#b958a5, #ff5677);
+}
+
+.look-btn {
+  background-color: #046582;
+}
+.new-btn {
+  border: 2px solid #046582;
+}
+.modal {
+    background-color: red;
+}
